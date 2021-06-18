@@ -1,2 +1,2 @@
-# projekt_na_zaliczenie
- 
+# TOAST
+Gra typu platformer. Wykonana przez Michalinę Reszetar. 
